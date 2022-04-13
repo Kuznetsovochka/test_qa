@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Oliver", "age": 22 },
+	{ "id": 2, "name": "Jack", "age": 31 },
+	{ "id": 3, "name": "Charley", "age": 28 }
+	
+  ],
+  "project": [
+    { "id": 1, "name": "Playrix"},
+	{ "id": 2, "name": "Gardenscapes"},
+	{ "id": 3, "name": "Homescapes"}
+  ],
+  "location": { "name": "Dublin" }
+}

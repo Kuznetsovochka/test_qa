@@ -1,5 +1,6 @@
 {
-	"users": [{
+	"users": [
+		{
 			"id": 1,
 			"name": "Oliver",
 			"age": 22,
@@ -29,8 +30,8 @@
 				"chess": false,
 				"english": false
 			}
-		]
-	},
+		}
+	],
 	"project": [{
 			"id": 1,
 			"name": "IT Platform"
